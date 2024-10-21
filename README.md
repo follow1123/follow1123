@@ -1,12 +1,10 @@
-### Hi there 👋
+### Java开发者
 
-### 我是一个Java开发者
+### Neovim用户
 
-### neovim 深度用户
-
-* 这是我的neovim配置 [nvim](https://github.com/follow1123/nvim)
-* 这是我编写的neovim插件 [project_session.nvim](https://github.com/follow1123/project_session.nvim)
-* 这是我在Windows下切换中英输入模式的解决方案 [im_select](https://github.com/follow1123/im_select)
+* Neovim配置 [nvim](https://github.com/follow1123/nvim)
+* Neovim插件 [project_session.nvim](https://github.com/follow1123/project_session.nvim)
+* Windows下切换中英输入模式的解决方案 [ims](https://github.com/follow1123/ims)
 
 ### 我的邮箱：1050911237@qq.com
 
